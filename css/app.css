@@ -73,6 +73,25 @@ fondo {
 .menu li a {
     color: rgb(78, 78, 78);
 }
+.historial {
+    color: rgb(78, 78, 78);
+}
+
+.historial li {
+    list-style: none;
+}
+
+.historial li a {
+    color: rgb(78, 78, 78);
+}
+
+/*Fin menu lateral*/
+
+/*parte central*/
+
+.margen {
+    padding: 4px;
+}
 
 /*Fin menu lateral*/
 
