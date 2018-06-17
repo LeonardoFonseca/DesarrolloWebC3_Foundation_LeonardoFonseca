@@ -5,7 +5,30 @@ body {
     background-attachment: fixed;
 }
 /*textos generales*/
+.logo {
+    font-family: 'Questrial', sans-serif;
+}
 
+.titulos {
+    font-family: 'Comfortaa', cursiva;
+    color: white;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.subtitulos {
+    font-family: 'Comfortaa', cursiva;
+    color: white;
+    font-weight: 300;
+    font-size: 1.3rem;
+}
+
+.parrafos {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+}
 /*Colores fondos general*/
 
 /*Cabecera*/
