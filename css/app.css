@@ -30,12 +30,49 @@ body {
     font-size: 1rem;
 }
 /*Colores fondos general*/
-
+fondo {
+    background-color: #404b6996;
+    color: aliceblue;
+}
+.fondo1 {
+    background-color: #ffdbdbaf;
+}
 /*Cabecera*/
+.superior {
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
 
+.division {
+    border-right: 1px solid rgb(255, 255, 255);
+}
+
+.navegacion li a {
+    color: white;
+}
 
 /*menu lateral*/
+.busqueda {
+    padding-top: 10px;
+}
 
+.icons {
+    font-size: 1.2rem;
+    color: rgb(78, 78, 78);
+}
+
+.menu {
+    margin-top: 5px;
+}
+
+.menu li {
+    border: 1px solid rgb(180, 118, 118);
+    border-radius: 3px;
+    margin-top: 2px;
+}
+
+.menu li a {
+    color: rgb(78, 78, 78);
+}
 
 /*Fin menu lateral*/
 
