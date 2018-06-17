@@ -92,9 +92,13 @@ fondo {
 .margen {
     padding: 4px;
 }
+/*comentarios Resetas*/
 
-/*Fin menu lateral*/
-
-/*parte central*/
+.comentario {
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 3px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
 
 /*fin parte central*/
