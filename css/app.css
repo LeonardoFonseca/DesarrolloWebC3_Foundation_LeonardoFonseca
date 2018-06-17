@@ -1,4 +1,9 @@
-
+body {
+    min-height: 2000px;
+    background-image: url(../Img/Fondo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 /*textos generales*/
 
 /*Colores fondos general*/
