@@ -4,7 +4,9 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
 /*textos generales*/
+
 .logo {
     font-family: 'Questrial', sans-serif;
 }
@@ -29,15 +31,20 @@ body {
     font-weight: 500;
     font-size: 1rem;
 }
+
 /*Colores fondos general*/
-fondo {
+
+.fondo {
     background-color: #404b6996;
     color: aliceblue;
 }
+
 .fondo1 {
     background-color: #ffdbdbaf;
 }
+
 /*Cabecera*/
+
 .superior {
     border-bottom: 1px solid rgb(255, 255, 255);
 }
@@ -51,6 +58,7 @@ fondo {
 }
 
 /*menu lateral*/
+
 .busqueda {
     padding-top: 10px;
 }
@@ -73,6 +81,7 @@ fondo {
 .menu li a {
     color: rgb(78, 78, 78);
 }
+
 .historial {
     color: rgb(78, 78, 78);
 }
@@ -92,6 +101,7 @@ fondo {
 .margen {
     padding: 4px;
 }
+
 /*comentarios Resetas*/
 
 .comentario {
